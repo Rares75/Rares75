@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm Rareș Cabalău 👋</h1>
 
 <p align="center">
-  <b>Computer Science Student @ UAIC Iași &nbsp;|&nbsp; Software Developer &nbsp;|&nbsp; Systems & Security Enthusiast</b>
+  <b>Computer Science Student @ UAIC Iași &nbsp;|&nbsp; Software Developer & AMD intern &nbsp;|&nbsp; Systems & Security Enthusiast</b>
 </p>
 
 <p align="center">
-  <a href="mailto:rarescabalau62@gmail.com">📧 rarescabalau62@gmail.com</a> &nbsp;•&nbsp;
-  <a href="https://github.com/Rares75">🐙 github.com/Rares75</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/rares-cabalau-30995438a/">💼 LinkedIn</a> &nbsp;•&nbsp;
   📍 Iași, Romania
 </p>
 
@@ -14,11 +13,10 @@
 
 ## About Me
 
-I'm a second-year student at the Faculty of Computer Science, "Alexandru Ioan Cuza" University of Iași, with a background in Mathematics and Computer Science. I have a solid foundation in data structures, algorithms, computer architecture, and OOP.
+I'm a third-year student at the Faculty of Computer Science, "Alexandru Ioan Cuza" University of Iași, with a background in Mathematics and Computer Science. I have a solid foundation in data structures, algorithms, computer architecture, and OOP.
 
 I'm passionate about building practical solutions — from secure network applications to AI-powered tools. I enjoy working close to the system, whether that means writing Rust for a distributed service, implementing AES encryption in C++, or integrating AI APIs into full-stack apps.
 
-- 🔭 Currently working on AI-powered educational tools
 - 🌱 Always learning — lately focused on systems programming and networking
 - 🏆 Cambridge English C1 Certificate (2024)
 - 💬 Ask me about C/C++, Rust, TypeScript, or TCP/IP
@@ -33,6 +31,7 @@ I'm passionate about building practical solutions — from secure network applic
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 **Frameworks & Runtimes**
 
@@ -77,7 +76,7 @@ Remote shell implementation on Linux using **C++ and TCP sockets**, with AES enc
 
 ---
 
-### 🏦 [GoodGardner – Full-Stack Banking Application](https://github.com/Rares75/Java_Project)
+### 🏦 [ApexBank – Full-Stack Banking Application](https://github.com/Rares75/Java_Project)
 A comprehensive banking web application with a **Java Spring Boot** backend and a **React + TypeScript (Vite)** frontend. Features include JWT-based authentication, account management, transaction processing, automated interest accrual, and PDF bank statement generation. Infrastructure is fully containerized with **Docker + PostgreSQL**, and the API is documented via **Swagger / OpenAPI**.
 
 **Stack:** Java 25 · Spring Boot 3 · Spring Security · Spring Data JPA · Flyway · React 18 · TypeScript · PostgreSQL · Docker
